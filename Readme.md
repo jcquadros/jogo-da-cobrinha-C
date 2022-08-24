@@ -37,4 +37,4 @@ E por ultimo executar o diff pelo terminal ou utilizar o meld para comparar as s
 
 Sim, é só alterar o diretório Testes para Gabarito. Se nenhuma mensagem aparecer no terminal então o jogo foi executado com êxito e não foi achado erro algum.
 
-** Com isso encerro aqui. Agora é só se divertir! :) **
+**Com isso encerro aqui. Agora é só se divertir! :)**
