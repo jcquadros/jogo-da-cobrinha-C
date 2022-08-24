@@ -17,4 +17,4 @@ jogar, basta informar o diretorio de jogo da seguinte forma : Casos/Testes/MODO_
 * Coma frutinhas '*' para fazer a cobrinha crescer, dinheiro '$' para acumular pontos e evite as paredes '#'! Elas podem te matar. Dentro das fases bônus há uma novidade: Os tuneis 
 teleportam a cobrinha. 
 
-##Agora é só se divertir! :)
+## Agora é só se divertir! :)
