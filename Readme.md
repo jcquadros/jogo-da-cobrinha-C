@@ -11,6 +11,7 @@ Funciona da seguinte forma. Temos 3 modos de jogo: simples, normal e bonus. E ca
 jogar, basta informar o diretorio de jogo da seguinte forma : Casos/Testes/MODO_DE_JOGO/NUMERO_DA_FASE
 
 **Ex: Casos/Testes/simples/1**
+
 **Ex: Casos/Testes/normais/10**
 
 * Aperte as teclas 'c', 'a' e 'h' para a movimentação da cobrinha em frente, sentido anti-horário e sentido horário respectivamente.
